@@ -1,0 +1,3 @@
+make sure to create one summary script to deploy any infrastructure as code and also an instruction to deploy that summary script in one line in the terminal (assuming all variables in the other scripts have been set)
+
+if other parts of my instruction ask for scripts try to combine them sensibly into this summary so the output has separate IaC files for each service deployed to azure plus the summary script calling them all 
